@@ -4,7 +4,7 @@ __Update：__
 
 __Result:__
 Project detail is here:https://www.bilibili.com/video/av52331060/  
-项目详细介绍看此视频：https://www.bilibili.com/video/av52331060/
+项目详细介绍看此视频：https://www.bilibili.com/video/av52331060/  
 __Project:__
 This project is to combine the Internet of Things, computer vision and web technology to establish a smart classroom system. As a webside member, responsible for website live broadcast function development and front-end development. The languages used are js, CSS, HTML and third-party libraries. In a week, the web-side live broadcast function development was quickly completed, tested and deployed. The team won the “First Prize of China Internet of Things Competition” and “Alibaba Cloud Innovation Award” (only one amount).
 
