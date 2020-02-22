@@ -2,6 +2,9 @@
 __Update：__ 
 2019.5.1
 
+__Result:__
+Project detail is here:https://www.bilibili.com/video/av52331060/  
+项目详细介绍看此视频：https://www.bilibili.com/video/av52331060/
 __Project:__
 This project is to combine the Internet of Things, computer vision and web technology to establish a smart classroom system. As a webside member, responsible for website live broadcast function development and front-end development. The languages used are js, CSS, HTML and third-party libraries. In a week, the web-side live broadcast function development was quickly completed, tested and deployed. The team won the “First Prize of China Internet of Things Competition” and “Alibaba Cloud Innovation Award” (only one amount).
 
@@ -82,7 +85,7 @@ Online part:
 （2）完成了实时互动交流平台的开发。成功地使得老师能够利用实时互动交流平台开启直播。师生之间能够愉快地利用实时互动交流平台进行交流；  
 （3）完成了笔记本地全部功能。作为本次项目最大地特色，本项目顺利地完成了笔记本地全部功能。学生能够利用笔记本做出新格式地笔记。  
 
-Detail Result is in here:https://www.bilibili.com/video/av52331060/
+Detail Result is in here:https://www.bilibili.com/video/av52331060/  
 详细的项目结果在此：https://www.bilibili.com/video/av52331060/
 
 # Contact
